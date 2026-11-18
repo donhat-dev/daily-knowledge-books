@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "description": "Danh mục tác phẩm đã review/recap, dùng chung để tránh trùng giữa các lịch; reviewed_on=null khi không xác định ngày.",
+  "books": [
+    {
+      "original_title": "Animal Farm",
+      "author": "George Orwell",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "Thinking in Systems",
+      "author": "Donella H. Meadows",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "Flowers for Algernon",
+      "author": "Daniel Keyes",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "The Checklist Manifesto",
+      "author": "Atul Gawande",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "The Dispossessed",
+      "author": "Ursula K. Le Guin",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "The Left Hand of Darkness",
+      "author": "Ursula K. Le Guin",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "The Day Before the Revolution",
+      "author": "Ursula K. Le Guin",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "aliases": [
+        "Ein Psychologe erlebt das Konzentrationslager"
+      ],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "The Remains of the Day",
+      "author": "Kazuo Ishiguro",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "Silent Spring",
+      "author": "Rachel Carson",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "The Death of Ivan Ilyich",
+      "author": "Leo Tolstoy",
+      "aliases": [
+        "Смерть Ивана Ильича"
+      ],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "The Emperor of All Maladies",
+      "author": "Siddhartha Mukherjee",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "Làm đĩ",
+      "author": "Vũ Trọng Phụng",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "Kỹ nghệ lấy Tây",
+      "author": "Vũ Trọng Phụng",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "Số đỏ",
+      "author": "Vũ Trọng Phụng",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "The Adult ADHD Tool Kit",
+      "author": "J. Russell Ramsay; Anthony L. Rostain",
+      "aliases": [],
+      "reviewed_on": null,
+      "source": "initial_exclusion"
+    },
+    {
+      "original_title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "aliases": [],
+      "reviewed_on": "2026-11-07",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "The Mushroom at the End of the World",
+      "author": "Anna Lowenhaupt Tsing",
+      "aliases": [],
+      "reviewed_on": "2026-11-08",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "Seeing Like a State",
+      "author": "James C. Scott",
+      "aliases": [],
+      "reviewed_on": "2026-11-09",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "Crónica de una muerte anunciada",
+      "author": "Gabriel García Márquez",
+      "aliases": [
+        "Chronicle of a Death Foretold"
+      ],
+      "reviewed_on": "2026-11-10",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "aliases": [
+        "One Hundred Years of Solitude",
+        "Trăm năm cô đơn"
+      ],
+      "reviewed_on": "2026-11-10",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "O Meu Pé de Laranja Lima",
+      "author": "José Mauro de Vasconcelos",
+      "aliases": [
+        "My Sweet Orange Tree",
+        "Cây cam ngọt của tôi"
+      ],
+      "reviewed_on": "2026-11-10",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "Konbini Ningen",
+      "author": "Sayaka Murata",
+      "aliases": [
+        "Convenience Store Woman",
+        "コンビニ人間",
+        "Cô gái cửa hàng tiện lợi"
+      ],
+      "reviewed_on": "2026-11-11",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "Die Verwandlung",
+      "author": "Franz Kafka",
+      "aliases": [
+        "The Metamorphosis",
+        "Hóa thân"
+      ],
+      "reviewed_on": "2026-11-12",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "The Ghost Map",
+      "author": "Steven Johnson",
+      "aliases": [
+        "Bản đồ bóng ma"
+      ],
+      "reviewed_on": "2026-11-13",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "The Pearl",
+      "author": "John Steinbeck",
+      "aliases": [
+        "Viên ngọc trai"
+      ],
+      "reviewed_on": "2026-11-14",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "채식주의자",
+      "author": "Han Kang",
+      "aliases": [
+        "The Vegetarian",
+        "Người ăn chay"
+      ],
+      "reviewed_on": "2026-11-15",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "L'Étranger",
+      "author": "Albert Camus",
+      "aliases": [
+        "The Stranger",
+        "Người xa lạ"
+      ],
+      "reviewed_on": "2026-11-16",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "Factfulness",
+      "author": "Hans Rosling; Ola Rosling; Anna Rosling Rönnlund",
+      "aliases": [
+        "Sự thật về thế giới qua những con số"
+      ],
+      "reviewed_on": "2026-11-17",
+      "source": "prior_review"
+    },
+    {
+      "original_title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "aliases": [
+        "Giấy dán tường màu vàng"
+      ],
+      "reviewed_on": "2026-11-18",
+      "source": "prior_review"
+    }
+  ]
+}
